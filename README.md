@@ -5,6 +5,8 @@ Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multit
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a bot that uses the [QnA Maker Cognitive AI](https://www.qnamaker.ai) service.
 
 The [QnA Maker Service](https://www.qnamaker.ai) enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes. In this sample, we demonstrate how to use the QnA Maker service to answer questions based on a FAQ text file used as input.
+im posting my chatbot video link in project demo url   https://youtu.be/N7I2dwVDYzc  as here Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot for covid-19. Click here to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click here.
+
 
 ## Concepts introduced in this sample
 The [QnA Maker Service][7] enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes.
