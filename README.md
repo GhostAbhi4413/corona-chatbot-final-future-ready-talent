@@ -19,8 +19,10 @@ The [QnA Maker Service](https://www.qnamaker.ai) enables you to build, train and
 # project demo video
 im posting my chatbot video link in project demo url   https://youtu.be/N7I2dwVDYzc  as here Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot for covid-19. Click here to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click here.
 
-
-## Concepts introduced in this sample
+## Project Demo Link
+ https://sites.google.com/view/coronachatbot2022/home
+ 
+# Concepts introduced in this sample
 The [QnA Maker Service][7] enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes.
 In this sample, we demonstrate 
 -.how to use the Active Learning to generate suggestions for knowledge base.
